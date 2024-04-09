@@ -1,4 +1,4 @@
-<img src='images/photo01.jpg'>
+<img src='images/photo2'>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeyoungPARK0824)](https://github.com/TaeyoungPARK0824/github-readme-stats)
