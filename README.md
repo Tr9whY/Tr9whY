@@ -11,7 +11,7 @@
 - **기타**: Jupyter Notebook, Git, Adobe Photoshop,<br>
              ~~Auto CAD, Rhino, Grasshopper, Revit, V-ray, Twinmotion, Lumion, Sketch UP~~
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeyoungPARK0824)](https://github.com/TaeyoungPARK0824/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr9whY)](https://github.com/Tr9whY/github-readme-stats)
 
 ![코딩 공부](https://img.shields.io/badge/%EC%BD%94%EB%94%A9%20%EA%B3%B5%EB%B6%80-orange?style=flat-square)
 [![데이터 분석가](https://img.shields.io/badge/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B0%80-blue?style=flat-square)](https://yourblog.com)
