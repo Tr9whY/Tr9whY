@@ -8,7 +8,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/Tr9whY">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr9whY&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=radical&hide=&langs_count=10&exclude_repo=Tr9whY.github.io&card_width=350&bg_color=FF1493,883DF2,000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr9whY&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=radical&hide=&langs_count=10&exclude_repo=Tr9whY.github.io&card_width=350&bg_color=FF1493,000000,883DF2&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
