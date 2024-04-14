@@ -14,7 +14,7 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Tr9whY">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tr9whY&hide=contribs,stars&hide_title=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=FF1493,883DF2,000000&icon_color=87ceeb&title_color=ff69b4&text_color=ffffff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tr9whY&hide=contribs,stars&hide_title=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000&icon_color=87ceeb&title_color=ff69b4&text_color=ffffff" />
   </a>
 </p>
 
