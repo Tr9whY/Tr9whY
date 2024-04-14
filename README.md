@@ -8,15 +8,17 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/Tr9whY">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr9whY&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=dark&hide=" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr9whY&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=radical&hide=&langs_count=10&exclude_repo=Tr9whY.github.io&card_width=350&bg_color=FF1493,883DF2,000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </p>
-<h3 align="center">💡  My Git Stats 💡</h3>
+<h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Tr9whY">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tr9whY&hide=contribs,stars&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tr9whY&hide=contribs,stars&hide_title=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=FF1493,883DF2,000000&icon_color=87ceeb&title_color=ff69b4&text_color=ffffff" />
   </a>
 </p>
+
+
 
 #### &#127793; Skills
 - **데이터 분석**: Pandas, Matplotlib
