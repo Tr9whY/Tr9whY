@@ -21,9 +21,9 @@
 
 
 #### &#127793; Skills
-- **데이터 분석**: Pandas, Matplotlib
+- **데이터 분석**: Pandas
 - **데이터베이스**: MySQL, MongoDB
-- **시각화**: Seaborn, Plotly, Power BI
+- **시각화**: Seaborn, Plotly, Matplotlib, Power BI
 - **기타**: Jupyter Notebook, Git, Adobe Photoshop,<br>
              ~~Auto CAD, Rhino, Grasshopper, Revit, V-ray, Twinmotion, Lumion, Sketch UP~~
   
