@@ -2,7 +2,7 @@
 
 
 ```
-데이터를 다루는 것을 좋아하고, 데이터 분석과 관련된 기술을 습득하고 있으며, Python과 SQL에 관심이 많습니다.
+Python과 SQL에 관심이 많습니다.
 ```
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
