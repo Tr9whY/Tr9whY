@@ -2,7 +2,7 @@
 
 
 ```
-Python과 SQL에 관심이 많습니다.
+멀티캠퍼스 데이터분석&서비스개발 8회차 수강중입니다.
 ```
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
