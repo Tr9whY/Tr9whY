@@ -18,8 +18,8 @@
   </a>
 </p>
 
-#### &#127793; Certificate
-- SQLD (6 / 21)
+#### 📜 Obtain Certificate 
+- SQLD (2024. 06. 21)
 
 #### &#127793; Skills
 - Python, Pandas
