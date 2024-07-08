@@ -17,6 +17,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tr9whY&hide=contribs,stars&hide_title=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000&icon_color=87ceeb&title_color=ff69b4&text_color=ffffff" />
   </a>
 </p>
+#### Preparing<br>
+- 빅데이터분석기사<br>
+- ADsP<br>
+- 경영정보시각화능력<br>
 
 #### 📜 Obtain Certificate 
 - SQLD (2024. 06. 21)
