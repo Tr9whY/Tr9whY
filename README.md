@@ -1,10 +1,6 @@
 <p align="center"><b>안녕하세요!</b> 👋 </p>
 
 
-```
-멀티캠퍼스 AI SW 개발자 부트캠프[파이썬] 수강중입니다.
-```
-
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/Tr9whY">
@@ -18,10 +14,16 @@
   </a>
 </p>
 
+#### Study
+멀티캠퍼스 AI SW 개발자 부트캠프[파이썬]
+
 #### Preparing
+- AI-102<br>
 - 빅데이터분석기사<br>
 - ADsP<br>
 - 경영정보시각화능력<br>
+- JAVA<br>
+- C#<br>
 
 #### 📜 Obtain Certificate 
 - SQLD (2024. 06. 21)
